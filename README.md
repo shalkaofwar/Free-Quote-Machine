@@ -1,1 +1,1 @@
-# Free-Quote-Machine
+# Random-Quote-Machine
